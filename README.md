@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dannyagc
 - 👀 I’m interested in ... Software Development and Cyber Security
-- 🌱 I’m currently learning ... Data Structures 
+- 🌱 I’m currently learning ... Calculus II / Sysyems and Application Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email: danielgilcardenas@gmail.com
 
